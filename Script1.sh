@@ -1,6 +1,6 @@
-#!/bin/bash
-#This is my 1st shell script to print output
-echo "Hello All, Welcome to AWS/Devops Class"
+echo"My name is Ram"
+echo "I am learning full stack devlopment"
+echo "I dont want any conflict"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Hello batch-19, We are learning Develops"
