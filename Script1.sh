@@ -1,8 +1,8 @@
-echo "Hello My name is Sandesh "
-echo "I am learning AWS DevOps"
-echo "I'm trying to create merge conflict"
+#!/bin/bash
+#This is my 1st shell script to print output
+echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
-echo "Hello batch-19, We are learning Develops"
-echo "Hello Batch-20"
-echo "AWS is completed now.."
+echo "Hello batch-20, We are learning Develops"
+echo "AWS is complete"
+
